@@ -5,6 +5,17 @@ All notable changes done in ODS library will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+### [0.8.O](https://github.com/Orange-OpenSource/ods-flutter/compare/0.1.1...0.8.0) - 2023-03-02
+
+## Added
+
+- [Bug]: ODS - Components - Cards - Horizontal card - divider ([#271](https://github.com/Orange-OpenSource/ods-flutter/issues/271))
+
+## Changed
+
+- Vertical Card customization updates ([#189](https://github.com/Orange-OpenSource/ods-flutter/issues/189))
+- Typographie flutter ios ([#293](https://github.com/Orange-OpenSource/ods-flutter/issues/293))
+
 ## [0.7.0](https://github.com/Orange-OpenSource/ods-flutter/compare/0.1.1...0.7.0) - 2023-02-02
 
 ### Added
