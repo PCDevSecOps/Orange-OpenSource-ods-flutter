@@ -59,7 +59,7 @@ class _OdsListSelectionItemState extends State<OdsListSelectionItem> {
                 subtitle: widget.subtitle != null
                     ? Text(
                         widget.subtitle!,
-                        style: Theme.of(context).textTheme.bodyLarge,
+                        style: Theme.of(context).textTheme.bodyMedium,
                       )
                     : null,
                 value: widget.value ?? false,
@@ -75,7 +75,7 @@ class _OdsListSelectionItemState extends State<OdsListSelectionItem> {
                 subtitle: widget.subtitle != null
                     ? Text(
                         widget.subtitle!,
-                        style: Theme.of(context).textTheme.bodyLarge,
+                        style: Theme.of(context).textTheme.bodyMedium,
                       )
                     : null,
                 value: widget.value ?? false,
